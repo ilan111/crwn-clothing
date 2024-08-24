@@ -31,7 +31,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <Directory categories={categories}/>
+      <Directory categories={categories} />
     </div>
   );
 };
